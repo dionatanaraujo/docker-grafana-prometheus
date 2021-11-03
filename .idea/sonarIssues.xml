@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/CiclanoBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/CustomMetricsDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/FulanoBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/IS2BPaymentProviderInterfaceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/IS2BPaymentProviderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/IS2BService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/MateraPaymentProviderInterfaceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/MateraPaymentProviderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/NamedBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/PaymentProviderConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/PaymentProviderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/ProviderInterfaceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/ProviderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/Scheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/java/de/mokkapps/custommetricsdemo/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../custom-metrics-spring-boot-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/prometheus/prometheus.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
